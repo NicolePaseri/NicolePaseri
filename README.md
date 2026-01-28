@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Nicole Paseri banner" />
+  <img src="banner1.png" alt="Nicole Paseri banner" />
 </p>
 
 ---

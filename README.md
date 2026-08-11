@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 Business Information Technology student 
+- 🎓 Graduate in Business Information Technology  
 - 💼 Working part-time in administration
 - 🌊 Interests: product thinking, clean UI, and projects that solve real problems
 - 📍 Switzerland
